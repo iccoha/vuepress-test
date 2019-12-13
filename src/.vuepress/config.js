@@ -1,5 +1,9 @@
+
+const title = 'GitHub Pages by VuePress';
+const description = 'I am learning publish VuePress with GitHub Pages';
+
 module.exports = {
-   title: 'GitHub Pages by VuePress',
-   description: 'I am learning publish VuePress with GitHub Pages',
-   dest: 'docs/'
-}
+  title: title,
+  description: description,
+  dest: 'docs/'
+};
