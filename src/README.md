@@ -1,4 +1,4 @@
-# Hello VuePress
+# Hello VuePress VuePress
 
 # H1
 ## H2
