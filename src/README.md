@@ -1,5 +1,4 @@
-# Hello VuePress VuePress
-
+# Hello VuePress 2
 # H1
 ## H2
 ### H3
