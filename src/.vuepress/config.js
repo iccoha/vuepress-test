@@ -6,5 +6,5 @@ module.exports = {
   title: title,
   description: description,
   dest: 'docs/',
-  base: '/vue-press/',
+  base: './',
 };
