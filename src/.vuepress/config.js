@@ -5,5 +5,6 @@ const description = 'I am learning publish VuePress with GitHub Pages';
 module.exports = {
   title: title,
   description: description,
-  dest: 'docs/'
+  dest: 'docs/',
+  base: '/vue-press/',
 };
