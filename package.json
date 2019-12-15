@@ -10,6 +10,7 @@
   },
   "scripts": {
     "src:dev": "vuepress dev src",
-    "src:build": "vuepress build src"
+    "src:build": "vuepress build src",
+    "test": "scripts/test.sh"
   }
 }
