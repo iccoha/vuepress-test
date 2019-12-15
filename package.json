@@ -5,7 +5,6 @@
   "repository": "https://github.com/iccoha/vuepress-test.git",
   "license": "MIT",
   "devDependencies": {
-    "jest": "^24.9.0",
     "vuepress": "^1.2.0"
   },
   "scripts": {
